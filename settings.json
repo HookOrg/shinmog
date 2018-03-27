@@ -4,5 +4,5 @@
         {"name": "corp dbs", "ports": [3306]},
         {"name": "corp utilities", "ports": [21, 22]}
     ],
-    "exec": "ansible"
+    "exec": "terraform"
 }
