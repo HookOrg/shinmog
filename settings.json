@@ -1,7 +1,7 @@
 {
     "apps": [
         {"name": "corp web servers", "ports": [80, 8080]},
-        {"name": "my databases", "ports": [3306]},
+        {"name": "my databases", "ports": [1234, 3306]},
         {"name": "corp utilities", "ports": [21, 22]}
     ],
     "exec": "ansible"
